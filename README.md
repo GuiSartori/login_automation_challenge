@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu projeto de automação de login utilizando BotCity:
-
----
-
 # Automação de Login com BotCity
 
 Este projeto é uma automação de login utilizando a biblioteca BotCity para interagir com a web. O script realiza tentativas de login em um site de teste e registra as ações em um arquivo de log.
