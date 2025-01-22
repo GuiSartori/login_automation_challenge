@@ -1,0 +1,18 @@
+(01/22/2025 01:02:50 PM) - Iniciando 1 tentativa
+(01/22/2025 01:02:50 PM) - Inserindo username
+(01/22/2025 01:02:50 PM) - Inserindo password
+(01/22/2025 01:02:51 PM) - Clickando no botão submit
+(01/22/2025 01:03:02 PM) - Mensagem de login sucedido não encontrada.
+(01/22/2025 01:03:02 PM) - Iniciando 2 tentativa
+(01/22/2025 01:03:02 PM) - Inserindo username
+(01/22/2025 01:03:03 PM) - Inserindo password
+(01/22/2025 01:03:03 PM) - Clickando no botão submit
+(01/22/2025 01:03:15 PM) - Mensagem de login sucedido não encontrada.
+(01/22/2025 01:03:15 PM) - Iniciando 3 tentativa
+(01/22/2025 01:03:15 PM) - Username alterado para "student"
+(01/22/2025 01:03:15 PM) - Realizando tentativa de login com o username correto
+(01/22/2025 01:03:15 PM) - Inserindo username
+(01/22/2025 01:03:16 PM) - Inserindo password
+(01/22/2025 01:03:16 PM) - Clickando no botão submit
+(01/22/2025 01:03:19 PM) - Login sucedido
+(01/22/2025 01:03:19 PM) - Finalizando a execução da automação...

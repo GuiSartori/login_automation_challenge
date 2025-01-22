@@ -1,0 +1,16 @@
+(01/22/2025 01:01:40 PM) - Iniciando 1 tentativa
+(01/22/2025 01:01:40 PM) - Inserindo username
+(01/22/2025 01:01:40 PM) - Inserindo password
+(01/22/2025 01:01:41 PM) - Clickando no botão submit
+(01/22/2025 01:01:53 PM) - Mensagem de login sucedido não encontrada.
+(01/22/2025 01:01:53 PM) - Iniciando 2 tentativa
+(01/22/2025 01:01:53 PM) - Inserindo username
+(01/22/2025 01:01:53 PM) - Inserindo password
+(01/22/2025 01:01:54 PM) - Clickando no botão submit
+(01/22/2025 01:02:05 PM) - Mensagem de login sucedido não encontrada.
+(01/22/2025 01:02:05 PM) - Iniciando 3 tentativa
+(01/22/2025 01:02:05 PM) - Inserindo username
+(01/22/2025 01:02:06 PM) - Inserindo password
+(01/22/2025 01:02:06 PM) - Clickando no botão submit
+(01/22/2025 01:02:18 PM) - Mensagem de login sucedido não encontrada.
+(01/22/2025 01:02:18 PM) - Foram realizadas 3 tentativas de login sem sucesso. Finalizando bot...

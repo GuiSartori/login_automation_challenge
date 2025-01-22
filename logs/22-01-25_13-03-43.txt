@@ -1,0 +1,6 @@
+(01/22/2025 01:03:43 PM) - Iniciando 1 tentativa
+(01/22/2025 01:03:43 PM) - Inserindo username
+(01/22/2025 01:03:43 PM) - Inserindo password
+(01/22/2025 01:03:44 PM) - Clickando no botão submit
+(01/22/2025 01:03:46 PM) - Login sucedido
+(01/22/2025 01:03:46 PM) - Finalizando a execução da automação...
